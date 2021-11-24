@@ -61,9 +61,5 @@
 
 ![screenshot0009.JPEG](Recording_20211124_1704_img/screenshot0009.JPEG)
 
-- *Keyboard Input*
-- Cursor X/Y 0,0
-- X/Y Pantalla 0,0,1920,1080
 
-![screenshot0010.JPEG](Recording_20211124_1704_img/screenshot0010.JPEG)
 
